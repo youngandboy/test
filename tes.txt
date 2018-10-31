@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-fdsafdsfdsfdsafds
-=======
-fdsafdsfdsfdsaf发发呆
->>>>>>> 524ef3fc52817d78a6db99dfb5467bcac825b657
+﻿fdsafdsfdsfdsaf发发呆
+

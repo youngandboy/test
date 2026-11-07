@@ -1,0 +1,9 @@
+{
+  "name": "@favor/commons",
+  "version": "1.0.0",
+  "description": "人情簿公共层：领域模型、统计规则、工具与基础组件",
+  "main": "Index.ets",
+  "author": "",
+  "license": "",
+  "dependencies": {}
+}

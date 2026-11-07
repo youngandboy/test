@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "feature_statistics",
+    "type": "har",
+    "description": "人情簿统计分析模块",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ]
+  }
+}

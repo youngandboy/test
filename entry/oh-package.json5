@@ -1,10 +1,16 @@
 {
   "name": "entry",
   "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "description": "人情簿应用入口（HAP）",
   "main": "",
   "author": "",
   "license": "",
-  "dependencies": {}
+  "dependencies": {
+    "@favor/commons": "file:../commons",
+    "@favor/data": "file:../data",
+    "@favor/feature-home": "file:../features/home",
+    "@favor/feature-records": "file:../features/records",
+    "@favor/feature-contacts": "file:../features/contacts",
+    "@favor/feature-statistics": "file:../features/statistics"
+  }
 }
-

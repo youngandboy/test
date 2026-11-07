@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "feature_home",
+    "type": "har",
+    "description": "人情簿首页看板",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ]
+  }
+}

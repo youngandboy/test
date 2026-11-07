@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "feature_records",
+    "type": "har",
+    "description": "人情簿人情账模块",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ]
+  }
+}

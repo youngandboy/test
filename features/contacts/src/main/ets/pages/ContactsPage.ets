@@ -167,7 +167,7 @@ export struct ContactsPage {
   @Builder
   personCard(item: PersonBalance) {
     Row({ space: 12 }) {
-      Avatar({ name: item.person.name, size: 46 })
+      Avatar({ name: item.person.name, avatarSize: 46 })
       Column({ space: 4 }) {
         Row({ space: 6 }) {
           Text(item.person.name)
@@ -292,7 +292,7 @@ export struct ContactsPage {
       Scroll() {
         Column({ space: 12 }) {
           Row({ space: 14 }) {
-            Avatar({ name: this.detailPerson.name, size: 56 })
+            Avatar({ name: this.detailPerson.name, avatarSize: 56 })
             Column({ space: 5 }) {
               Row({ space: 6 }) {
                 Text(this.detailPerson.name)

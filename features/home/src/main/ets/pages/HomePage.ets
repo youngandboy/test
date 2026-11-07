@@ -173,7 +173,7 @@ export struct HomePage {
   @Builder
   pendingRow(item: PersonBalance) {
     Row({ space: 10 }) {
-      Avatar({ name: item.person.name, size: 36 })
+      Avatar({ name: item.person.name, avatarSize: 36 })
       Column({ space: 3 }) {
         Text(item.person.name)
           .fontSize(14)

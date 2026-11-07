@@ -1,0 +1,11 @@
+{
+  "name": "@favor/ui",
+  "version": "1.0.0",
+  "description": "人情簿基础 UI 组件库",
+  "main": "Index.ets",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@favor/commons": "file:../commons"
+  }
+}

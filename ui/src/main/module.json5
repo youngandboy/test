@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "ui",
+    "type": "har",
+    "description": "人情簿基础 UI 组件库",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ]
+  }
+}

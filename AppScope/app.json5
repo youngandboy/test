@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.example.testapp",
+    "bundleName": "com.example.favorbook",
     "vendor": "example",
     "versionCode": 1000000,
     "versionName": "1.0.0",

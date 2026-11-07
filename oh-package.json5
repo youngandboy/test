@@ -1,6 +1,6 @@
 {
   "modelVersion": "26.0.0",
-  "description": "Please describe the basic information.",
+  "description": "人情簿：鸿蒙人情往来管理应用",
   "dependencies": {
   },
   "devDependencies": {

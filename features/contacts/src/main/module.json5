@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "feature_contacts",
+    "type": "har",
+    "description": "人情簿通讯录模块",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ]
+  }
+}

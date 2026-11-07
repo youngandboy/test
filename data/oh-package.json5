@@ -1,0 +1,11 @@
+{
+  "name": "@favor/data",
+  "version": "1.0.0",
+  "description": "人情簿数据层：本地持久化、仓库与示例数据",
+  "main": "Index.ets",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@favor/commons": "file:../commons"
+  }
+}

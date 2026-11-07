@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "data",
+    "type": "har",
+    "description": "人情簿数据仓库与本地持久化",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ]
+  }
+}

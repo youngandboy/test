@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "commons",
+    "type": "har",
+    "description": "人情簿公共领域模型、工具与基础组件",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ]
+  }
+}

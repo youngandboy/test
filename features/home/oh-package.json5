@@ -1,0 +1,13 @@
+{
+  "name": "@favor/feature-home",
+  "version": "1.0.0",
+  "description": "人情簿首页看板",
+  "main": "Index.ets",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@favor/commons": "file:../../commons",
+    "@favor/ui": "file:../../ui",
+    "@favor/data": "file:../../data"
+  }
+}

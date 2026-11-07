@@ -5,7 +5,7 @@ export struct StatTile {
   label: string = '';
   value: string = '';
   color: string = AppTheme.textPrimary;
-  background: string = AppTheme.card;
+  bgColor: string = AppTheme.card;
 
   build() {
     Column({ space: 6 }) {
@@ -19,7 +19,7 @@ export struct StatTile {
     }
     .layoutWeight(1)
     .padding({ top: 12, bottom: 12, left: 12, right: 12 })
-    .backgroundColor(this.background)
+    .backgroundColor(this.bgColor)
     .borderRadius(AppTheme.radiusSmall)
     .alignItems(HorizontalAlign.Start)
   }

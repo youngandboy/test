@@ -33,7 +33,7 @@ export class FavorRepository {
       await this.loading;
     } catch (error) {
       this.loading = null;
-      throw error;
+      throw error instanceof Error ? error : new Error(String(error));
     }
   }
 
